@@ -11,7 +11,7 @@ from PyCharacterAI import get_client as get_cai_client
 # ─────────────────────────────────────────────
 
 # Instagram BOT account (new separate account, not your real one)
-IG_USERNAME  = os.getenv("IG_USERNAME", "notsarah.mine")
+IG_USERNAME  = os.getenv("IG_USERNAME", "mcclips34@gmail.com")
 IG_PASSWORD  = os.getenv("IG_PASSWORD", "IMRICH##0987")
 
 # Character.AI — all found!
